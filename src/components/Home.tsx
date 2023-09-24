@@ -150,7 +150,7 @@ const Home = () => {
           <section className="image-section">
             <div className="image-container">
               <ThreeDImage />
-            </div>
+            </div> 
           </section>
         </div> */}
 
