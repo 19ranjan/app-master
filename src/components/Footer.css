@@ -1,0 +1,28 @@
+/* Footer Row */
+.footer-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  /* Footer Column */
+  .footer-column {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  /* Footer Column Content Styles */
+  .footer-column h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  /* Copyright Notice */
+  .copyright {
+    background-color: #005271;
+    text-align: center;
+    padding: 10px;
+    color: white;
+  }
+  

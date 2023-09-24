@@ -1,0 +1,54 @@
+.join-us {
+    background-color: #048785; /* Blue background color */
+    color: #fff; /* Text color */
+    padding: 80px 0; /* Add padding as needed */
+    text-align: center;
+  }
+  
+  .join-us-content {
+    max-width: 800px; /* Set the maximum width for content */
+    margin: 0 auto; /* Center content horizontally */
+  }
+  
+  h2 {
+    font-size: 2.5rem; /* Adjust font size */
+  }
+  
+  p {
+    font-size: 1.2rem; /* Adjust font size */
+    margin-top: 20px; /* Add margin as needed */
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-between; /* Arrange features in a row with space between */
+    margin-top: 40px; /* Add margin as needed */
+  }
+  
+  .feature {
+    flex: 0 0 calc(33.33% - 20px); /* Adjust the width and margin as needed */
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1); /* Light background color */
+    border-radius: 10px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .feature img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px; /* Add spacing between image and text */
+  }
+  
+  .feature h3 {
+    font-size: 1.5rem; /* Adjust font size */
+  }
+  
+  .feature p {
+    font-size: 1rem; /* Adjust font size */
+  }
+  
+  .feature:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Change background color on hover */
+    transform: translateY(-5px); /* Add a slight lift effect on hover */
+  }
+  

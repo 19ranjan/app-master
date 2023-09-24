@@ -1,0 +1,6 @@
+/* ImageGallery.css */
+/* Reduce margin between slides */
+.custom-slider .slick-slide {
+    margin: 0 10px; /* Adjust margin as needed */
+  }
+  

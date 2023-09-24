@@ -1,0 +1,53 @@
+/* Home Page Styles */
+.home {
+    max-width: auto;
+    
+  }
+  
+  .header {
+    background-color: #007BFF; /* Customize the color */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+  }
+  
+  .content {
+    margin-top: 20px;
+    padding: 20px;
+  }
+  
+  .content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+
+    body {
+    background-color: white;
+    /* Other styles for your home page */
+    }
+  
+    /* Home.css */
+.image-container {
+    background-color: white;
+    display: flex;
+    justify-content: center; /* Horizontal center alignment */
+    align-items: center; /* Vertical center alignment */
+    height: 100vh; /* Adjust the height as needed */
+    width: 100vh;
+  }
+  
+  /* Ensure the image doesn't exceed its container's width */
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
+  
+  /* Add more styles for additional sections/content as needed */
+  

@@ -1,0 +1,17 @@
+/* App.css */
+
+/* Style for the app container */
+.app-container {
+    /* Gradient background */
+    background: linear-gradient(45deg, yellow, purple);
+    /* Set background size to cover the entire container */
+    background-size: cover;
+    /* Set the height of the container to 100vh to fill the viewport */
+    height:auto;
+    /* Center the content vertically and horizontally */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* Add additional styles or remove as needed */
+  }
+  
